@@ -1,1 +1,4 @@
 # nytimes-app
+
+### Contributors
+Joel
