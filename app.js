@@ -22,7 +22,7 @@ function searchTimes(){
             var byeBox = $("<p>");
             snipBox.append(snip);
             byeBox.append(bye);
-            $("#response-box").prepend("<strong>"+hed+"</strong>", byeBox, snipBox, "<hr>");
+            $("#media-body").prepend("<strong>"+hed+"</strong>", byeBox, snipBox, "<hr>");
         }
     })
 }
