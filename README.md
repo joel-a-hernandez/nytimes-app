@@ -1,4 +1,7 @@
 # nytimes-app
 
-###Contributors
+
+### Contributors
+Joel
+Andy
 Sylvia Jonon
